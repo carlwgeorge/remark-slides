@@ -55,8 +55,8 @@ background-image: url(images/up.png)
 
 .bh2[advantages]
 
-### better than source installs
-### better than maintaining your own RPMs
+### no compiling from source
+### maintained long term
 ### only install what you want
 ---
 class: center, middle
