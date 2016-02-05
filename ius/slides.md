@@ -51,6 +51,7 @@ class: center, middle
 - add-on packages should be submitted to EPEL
 ---
 class: center, middle
+background-image: url(images/up.png)
 
 .bh2[advantages]
 
@@ -59,6 +60,7 @@ class: center, middle
 ### only install what you want
 ---
 class: center, middle
+background-image: url(images/down.png)
 
 .bh2[disadvantages]
 
