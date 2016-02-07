@@ -129,4 +129,4 @@ ${name}${major}${minor}u
 
 ### questions
 
-![RPM](images/rpm.png)
+![RPM](images/rpm.svg)
