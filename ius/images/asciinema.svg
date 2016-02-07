@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   height="40"
+   width="34.641014"
+   id="svg2"
+   viewBox="0 0 34.641015 40"
+   version="1.1">
+  <metadata
+     id="metadata17">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4">
+    <mask
+       id="small-triangle-mask">
+      <rect
+         style="fill:#ffffff"
+         y="0"
+         x="0"
+         id="rect7"
+         height="866.02539"
+         width="866.02539" />
+      <polygon
+         style="fill:#000000"
+         id="polygon9"
+         points="208.0127,606.21778 508.0127,433.0127 208.0127,259.80762 " />
+    </mask>
+  </defs>
+  <polygon
+     style="fill:#d40000"
+     transform="matrix(0.04618802,0,0,0.04618802,-2.6794918,0)"
+     id="polygon11"
+     mask="url(#small-triangle-mask)"
+     points="58.012702,-1.1368684e-13 58.012702,866.0254 808.0127,433.0127 " />
+  <polyline
+     style="stroke:#d40000;stroke-width:90"
+     transform="matrix(0.04618802,0,0,0.04618802,-2.6794918,0)"
+     id="polyline13"
+     points="481.2177826491071 333.0127018922194, 134.80762113533166 533.0127018922194" />
+</svg>
