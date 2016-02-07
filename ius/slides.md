@@ -1,4 +1,7 @@
+layout: true
 class: center, middle
+
+---
 
 .bh1[MAKING ENTERPRISE LINUX FEEL YOUNG AGAIN]
 
@@ -11,7 +14,6 @@ About me:
 - Rackspace since 2011
 - using Linux since 2009
 ---
-class: center
 # Stable is good, m'kay?
 ![mkay](images/mkay.png)
 ???
@@ -19,21 +21,17 @@ class: center
 - Red Hat is commiting to 10 years of support.
 - The versions of packages that Red Hat chooses undergo extensive QA testing.
 ---
-class: center
 # The package is too damn old!
 ![too high](images/too-high.jpg)
 ???
 - Extensive QA takes time.
 - Versions are usually locked for the lifetime of a release.
 ---
-class: center
 # Third party repos are like a box of chocolates . . .
 ![gump](images/gump.png)
 ---
-class: center, middle
 .bh1[IUS]
 ---
-class: center, middle
 
 .bh2[key features]
 
@@ -41,7 +39,6 @@ class: center, middle
 ## no automatic replacement
 ## inline with upstream stable
 ---
-class: center, middle
 
 .bh2[package types]
 
@@ -50,7 +47,6 @@ class: center, middle
 ???
 - add-on packages should be submitted to EPEL
 ---
-class: center, middle
 background-image: url(images/up.png)
 
 .bh2[advantages]
@@ -59,7 +55,6 @@ background-image: url(images/up.png)
 ### maintained long term
 ### only install what you want
 ---
-class: center, middle
 background-image: url(images/down.png)
 
 .bh2[disadvantages]
@@ -67,13 +62,11 @@ background-image: url(images/down.png)
 ### with new features comes new bugs
 ### installation process can be non-intuitive
 ---
-class: center, middle
 
 .bh2[naming convention]
 
 ## ${name}${major}${minor}u
 ---
-class: center, middle
 
 .bh2[demos]
 
@@ -83,7 +76,6 @@ class: center, middle
 ### [mysql56u](https://asciinema.org/a/24507)
 ### [git2u](https://asciinema.org/a/24559)
 ---
-class: center, middle
 
 .bh2[getting involved]
 
@@ -91,7 +83,6 @@ class: center, middle
 ### freenode: `#iuscommunity`
 ### github: [iuscommunity](https://github.com/iuscommunity) / [iuscommunity-pkg](https://github.com/iuscommunity-pkg)
 ---
-class: center, middle
 
 .bh2[questions]
 
