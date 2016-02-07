@@ -12,10 +12,14 @@ class: title
 We all want our Linux distributions to be stable.  However, "stable" usually equates to "old".  While this is a natural result of producing mature distributions, there are times when you just absolutely need at least version X of package Y.  This talk will explain what the IUS project is and how you can use it to install newer versions of select applications on Enterprise Linux.
 
 About me:
-- native Texan
-- Army from 2003 to 2011
-- Rackspace since 2011
-- using Linux since 2009
+
+native Texan
+
+Army from 2003 to 2011
+
+Rackspace since 2011
+
+using Linux since 2009
 
 ---
 
@@ -25,9 +29,11 @@ About me:
 
 ???
 
-- RHEL is based on a subset of Fedora packages.
-- Red Hat is commiting to 10 years of support.
-- The versions of packages that Red Hat chooses undergo extensive QA testing.
+RHEL is based on a subset of Fedora packages.
+
+Red Hat is commiting to 10 years of support.
+
+The versions of packages that Red Hat chooses undergo extensive QA testing.
 
 ---
 
@@ -37,8 +43,9 @@ About me:
 
 ???
 
-- Extensive QA takes time.
-- Versions are usually locked for the lifetime of a release.
+Extensive QA takes time.
+
+Versions are usually locked for the lifetime of a release.
 
 ---
 
@@ -70,7 +77,7 @@ parallel installable
 
 ???
 
-- add-on packages should be submitted to EPEL
+add-on packages should be submitted to EPEL
 
 ---
 
