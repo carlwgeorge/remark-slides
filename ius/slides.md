@@ -3,7 +3,7 @@ class: center, middle
 
 ---
 
-## MAKING ENTERPRISE LINUX FEEL YOUNG AGAIN
+## making enterprise linux feel young again
 
 ???
 We all want our Linux distributions to be stable.  However, "stable" usually equates to "old".  While this is a natural result of producing mature distributions, there are times when you just absolutely need at least version X of package Y.  This talk will explain what the IUS project is and how you can use it to install newer versions of select applications on Enterprise Linux.
