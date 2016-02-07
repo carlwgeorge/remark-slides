@@ -2,6 +2,7 @@ layout: true
 class: center, middle
 
 ---
+class: title
 
 ## making enterprise linux feel young again
 
@@ -89,11 +90,13 @@ ${name}${major}${minor}u
 
 ### demos
 
+.demos[
 - [python34u](https://asciinema.org/a/24505)
 - [redis30u](https://asciinema.org/a/24585)
 - [php56u](https://asciinema.org/a/24503)
 - [mysql56u](https://asciinema.org/a/24507)
 - [git2u](https://asciinema.org/a/24559)
+]
 
 ---
 
@@ -103,7 +106,10 @@ homepage: [ius.io](https://ius.io)
 
 freenode: `#iuscommunity`
 
-github: [iuscommunity](https://github.com/iuscommunity) / [iuscommunity-pkg](https://github.com/iuscommunity-pkg)
+.github[
+- [iuscommunity](https://github.com/iuscommunity)
+- [iuscommunity-pkg](https://github.com/iuscommunity-pkg)
+]
 
 ---
 
