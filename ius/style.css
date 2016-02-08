@@ -8,6 +8,7 @@ body {
   font-style: italic;
   color: #FFFFFF;
   background: #C40022;
+  text-shadow: 0 0 0.5em #444444;
 }
 
 .remark-slide-content h1, h2, h3, h4, h5, h6 {
