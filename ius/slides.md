@@ -107,6 +107,8 @@ background-image: url(images/down.png)
 
 ### disadvantages
 
+shorter lifecycle than stock packages
+
 with new features comes new bugs
 
 installation process can be non-intuitive
