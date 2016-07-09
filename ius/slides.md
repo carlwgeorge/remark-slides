@@ -69,6 +69,12 @@ inline with upstream stable
 
 ---
 
+### naming convention
+
+${name}${major}${minor}u
+
+---
+
 ### package types
 
 safe replacement
@@ -100,12 +106,6 @@ background-image: url(images/down.png)
 with new features comes new bugs
 
 installation process can be non-intuitive
-
----
-
-### naming convention
-
-${name}${major}${minor}u
 
 ---
 
