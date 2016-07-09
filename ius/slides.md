@@ -63,9 +63,9 @@ Versions are usually locked for the lifetime of a release.
 
 newer versions of stock packages
 
-no automatic replacement
-
 inline with upstream stable
+
+no automatic replacement
 
 ---
 
