@@ -73,6 +73,10 @@ no automatic replacement
 
 ${name}${major}${minor}u
 
+mysql -> mysql57u
+
+php -> php70u
+
 ---
 
 ### package types
