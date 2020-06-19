@@ -71,11 +71,13 @@ no automatic replacement
 
 ### naming convention
 
-${name}${major}${minor}u
+${name}${version}
 
-mysql -> mysql57u
+mariadb -> mariadb103
 
-php -> php70u
+php -> php74
+
+redis -> redis5
 
 ---
 
