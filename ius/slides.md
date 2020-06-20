@@ -133,7 +133,7 @@ installation process can be non-intuitive
 
 [ius.io](https://ius.io)
 
-\#iuscommunity
+[#ius](https://freenode.net)
 
 .github[
 - [iuscommunity](https://github.com/iuscommunity)
