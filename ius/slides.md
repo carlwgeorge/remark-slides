@@ -136,8 +136,7 @@ installation process can be non-intuitive
 [#ius](https://freenode.net)
 
 .github[
-- [iuscommunity](https://github.com/iuscommunity)
-- [iuscommunity-pkg](https://github.com/iuscommunity-pkg)
+- [iusrepo](https://github.com/iusrepo)
 ]
 
 ---
